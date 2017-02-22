@@ -1,5 +1,7 @@
 # comp150-cpd
 
+# Semester 1
+
 ## Summary of experience
 My career goal is to become a programmer in a AAA studio. To reach this goal I need to improve on independent study, presentations, understanding and remembering code, time management, spelling and punctuation. I hope to improve these abilities by the end of the spring term in April, and by the end of the year, I plan to be fully competent in these skills. These goals are important to my future career by increasing my ability to communicate with co-workers, any problems that arise. It will also improve the quality of my coding, and problem solving, which is a crucial part of becoming a good programmer that a AAA studio would want to hire.
 
@@ -38,3 +40,19 @@ Tinkering audio peer review, because of my previous deadlines, I had committed n
 
 ##Week 12
 The desktop game hand in, collision was still acting the way it shouldn't, I should have managed my time better and asked my tutors to look over my code by making a pull request on Github, which I will be taking advantage of next semester.
+
+# Semester 2
+
+## Week 1
+Real introduction to visual studio c++ and Unreal blueprints, which I found especially difficult switching from python to unreal but watching pluralsight turorials should help me understand and get me used to these programs.
+
+## Week 2
+Learning c++ standards and using blueprints to contribute to the group game, also creating a collectable blueprint in comp140, is increasing my knowledge quickly, and I am beginning to understand.
+
+## Week 3
+Wasn't in all week due to flu.
+
+## Week 4
+Learnt about game engines and architecture which can help me with my software engineering essay, reading furthur material will help my understanding of the subject.
+
+## Week 5
