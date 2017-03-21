@@ -44,7 +44,7 @@ The desktop game hand in, collision was still acting the way it shouldn't, I sho
 # Semester 2
 
 ## Week 1
-Real introduction to visual studio c++ and Unreal blueprints, which I found especially difficult switching from python to unreal but watching pluralsight turorials should help me understand and get me used to these programs.
+Introduction to visual studio c++ and Unreal blueprints, which I found especially difficult switching from python to unreal but watching pluralsight turorials should help me understand and get me used to these programs. First real PO meeting I need to start going to stand up meetings
 
 ## Week 2
 Learning c++ standards and using blueprints to contribute to the group game, also creating a collectable blueprint in comp140, is increasing my knowledge quickly, and I am beginning to understand.
