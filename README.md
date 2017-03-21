@@ -20,25 +20,25 @@ Game version control, using TortoiseGit, in groups we had to create the PONG gam
 ## Week 5
 Presenting to game Designers, I spent ages making sprites and nice text boxes to present my game, then on the day I couldn’t show anyone my handout and I forgot all my information, I learnt that I get very nervous during presentations and need more practise.
 
-##Week 6
+## Week 6
 Learnt how to use LaTex to write scholarly papers, which I found very difficult to understand, I will practise this in my own time and watch a tutorial to help.
 
-##Week 7
+## Week 7
 Finally chose my Agile question and presented it to an Agile professional, presenting was a tiny bit better than last time, but still needs practise.
 
-##Week 8
+## Week 8
 Was absent for Monday and Tuesday from flu, Wednesday tinkering audio didn't understand any of the lectures and couldn't do the workshop, went over it with Michael understood it a bit better and realised I need to go over my maths again.
 
-##Week 9
+## Week 9
 Finally made a start on collision for Slime Evo realised I have no idea what a class is and how to make one to track the sprites movement, Tinkering audio 2 couldn't follow any of the lectures must ask one of my tutors to explain it all to me again.
 
-##Week 10
+## Week 10
 Agile peer review peer review, I found the main criticisms from my peers were spelling and punctuation, with help from my dyslexic tutor I am slowly improving.
 
-##Week 11
+## Week 11
 Tinkering audio peer review, because of my previous deadlines, I had committed nothing to Github and completed no work towards this assignment, this shows I need to improve my time management in the future.
 
-##Week 12
+## Week 12
 The desktop game hand in, collision was still acting the way it shouldn't, I should have managed my time better and asked my tutors to look over my code by making a pull request on Github, which I will be taking advantage of next semester.
 
 # Semester 2
