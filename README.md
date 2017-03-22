@@ -68,6 +68,6 @@ Fixed player health from taking random damage and slowly drains on continued col
 Had flue so wasn't in all week, finnished off comp140 game for hand in on the 20th, worked on software engineering essay and created respawn player, making sure all widgets respawn aswell for the group game.
 
 ## Week 9
-Finished Ed's worksheets assignment, started creating a phone usage bar for the group game, while doing the software engineering essay also doing the CPD assignment and research essay, everything really starting to pile on top of one another.
+Finished Ed's worksheets assignment, my computer crashed and wiped all my software engineering essay I had been working on so I had to re-write it all, I have started creating a phone usage bar for the group game, while doing the CPD assignment and research essay, everything really starting to pile on top of one another.
 
 ## Week 10
