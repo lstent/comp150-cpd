@@ -47,12 +47,27 @@ The desktop game hand in, collision was still acting the way it shouldn't, I sho
 Introduction to visual studio c++ and Unreal blueprints, which I found especially difficult switching from python to unreal but watching pluralsight turorials should help me understand and get me used to these programs. First real PO meeting I need to start going to stand up meetings
 
 ## Week 2
-Learning c++ standards and using blueprints to contribute to the group game, also creating a collectable blueprint in comp140, is increasing my knowledge quickly, and I am beginning to understand.
+Learning c++ standards and using blueprints to contribute to the group game, also creating a collectable blueprint in comp140, is increasing my knowledge quickly, and I am beginning to understand. Getting Eds worksheets done, proof of good time management?
 
 ## Week 3
-Wasn't in all week due to flu.
+Wasn't in all week due to flu, but working on NPC roam and chase for group game.
 
 ## Week 4
-Learnt about game engines and architecture which can help me with my software engineering essay, reading furthur material will help my understanding of the subject.
+Learnt about game engines and architecture which can help me with my software engineering essay, reading furthur material will help my understanding of the subject. Finnished roam and chase, started my Arduino coding for my controller but I don't really understand it, I will watch online tutorials and practice with it.
 
 ## Week 5
+Forgot about CPD, had to quickly go through all the previous weeks and remember what happened. For the group game I programmed the player to make noise, volume depending on movement speed and AI can hear which means the player can no longer hide behind AIs back, stared learning aout servers in comp 160, which I studied in CHE but can't remember anything, I will look through my old internet and server books to refresh my knowledge.
+
+## Week 6
+Made a take damage on collide for player health in the group game, which requires some bug fixing but concentrating mainly on the game for comp140 which is almost finnished ready for the viva next week, its starting to look like I'm definatly improving on timekeeping for assignments. Went into every stand up meeting but everyone was arriving late or the stand up wouldnt happen at all, seems like a waste of my time
+
+## Week 7
+Fixed player health from taking random damage and slowly drains on continued collsion, viva went well I think had difficulty explaining myself at times, stopped going to stand up meeting so I could start the comp160 software engineering essay.
+
+## Week 8
+Had flue so wasn't in all week, finnished off comp140 game for hand in on the 20th, worked on software engineering essay and created respawn player, making sure all widgets respawn aswell for the group game.
+
+## Week 9
+Finished Ed's worksheets assignment, started creating a phone usage bar for the group game, while doing the software engineering essay also doing the CPD assignment and research essay, everything really starting to pile on top of one another.
+
+## Week 10
